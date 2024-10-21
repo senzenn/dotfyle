@@ -1,0 +1,9 @@
+autologin.username="31aizx25b45yikyy6gsg4cgawp5e"
+autologin.saved_credentials="{\"31aizx25b45yikyy6gsg4cgawp5e\":[\"31aizx25b45yikyy6gsg4cgawp5e\",\"ighDkB1gaYJzEicbSk540o+eX6E1FcElBZA68qCfhldnCfAqz5yAsdOHp4IdeypG20/A8qjrnCn7qpgGkdivFMOE5+cGc7S2iiTsMmM7gy32SiXd+ADQzV0E2/FhnCJOwcDovC1ZYBZqhe5cXZW4kQrjBEzIZJsbmjud252S6PBuz6hEZ7BVaHldtjF2rk4fzgMVTWDvc57F5/3+7/bNE3oYPXwpT/tgowByJcZ5z2o+yo5e+EG9xtLRduafQSJvRHlCgjAvbfIOBXWM5mUnJa1rGBdo3s7jshUbjvEYbqrtpS1fTP+ASCdfUkxoC1+uGKGUoXf+G33Tf261UIdx08+ZpUL36HdqnHVF8LjyAJ4=\"]}"
+autologin.blob="ighDkB1gaYJzEicbSk540o+eX6E1FcElBZA68qCfhldnCfAqz5yAsdOHp4IdeypG20/A8qjrnCn7qpgGkdivFMOE5+cGc7S2iiTsMmM7gy32SiXd+ADQzV0E2/FhnCJOwcDovC1ZYBZqhe5cXZW4kQrjBEzIZJsbmjud252S6PBuz6hEZ7BVaHldtjF2rk4fzgMVTWDvc57F5/3+7/bNE3oYPXwpT/tgowByJcZ5z2o+yo5e+EG9xtLRduafQSJvRHlCgjAvbfIOBXWM5mUnJa1rGBdo3s7jshUbjvEYbqrtpS1fTP+ASCdfUkxoC1+uGKGUoXf+G33Tf261UIdx08+ZpUL36HdqnHVF8LjyAJ4="
+es.send-on-startup=true
+core.clock_delta=0
+autologin.canonical_username="31aizx25b45yikyy6gsg4cgawp5e"
+app.enable-chrome-runtime=true
+storage.last-location="/home/ascenzen/.cache/spotify/Storage"
+app.last-launched-version="1.2.45.454.gc16ec9f6"
